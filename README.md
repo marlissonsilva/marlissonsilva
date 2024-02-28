@@ -2,7 +2,7 @@
  &nbsp;
  &nbsp;
 
-<p align="center">Sou desenvolvedor Front End, com formação em andamento no curso de Análise e Desenvolvimentos de Sistemas na Unicsul.</p>&nbsp;
+<p align="center">Sou desenvolvedor web, com formação em andamento no curso de Análise e Desenvolvimentos de Sistemas na Unicsul.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marlissonsilva&theme=radical&mode=weekly" />
@@ -27,7 +27,6 @@
 ## Contacts:
 
 <div> 
-<a href = "mailto:marlissondev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marlysson-silva-mcs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 </div>&nbsp;&nbsp;
