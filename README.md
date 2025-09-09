@@ -2,7 +2,7 @@
  &nbsp;
  &nbsp;
 
-<p align="center">Sou desenvolvedor web, com formação em andamento no curso de Análise e Desenvolvimentos de Sistemas na Unicsul.</p>&nbsp;
+<!--<p align="center">Sou desenvolvedor web, com formação em andamento no curso de Análise e Desenvolvimentos de Sistemas na Unicsul.</p>&nbsp;-->
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marlissonsilva&theme=radical&mode=weekly" />
