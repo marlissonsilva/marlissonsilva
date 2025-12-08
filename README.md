@@ -31,7 +31,7 @@
 
 </div>&nbsp;&nbsp;
  
-![Marlisson GitHub stats](https://github-readme-stats.vercel.app/api?username=marlissonsilva&show_icons=true&theme=dracula)
+<!-- ![Marlisson GitHub stats](https://github-readme-stats.vercel.app/api?username=marlissonsilva&show_icons=true&theme=dracula) -->
 
 <img width=100% src="./footer.svg"/>
 
